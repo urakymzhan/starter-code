@@ -1,0 +1,27 @@
+
+body {
+    background-color: #282828;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+    /* load this if you going to use google fonts */
+    /*font-family: 'Red Rose', cursive;*/
+}
+
+header h1 {
+    color: #ff0000;
+    font-size: 3rem;
+}
+
+.bio {
+    color: #8bc34a;
+    font-size: 24px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+span {
+    color: #03a9f4;
+}
